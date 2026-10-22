@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mcyj.github.io/czechia-drone-a2-prep-web/sitemap.xml
